@@ -6,7 +6,7 @@ The Netflix Clone is a full-stack web application that replicates the core featu
 ---
 
 ## **Live Demo**  
-[Live Demo Link](#) *(Insert deployed application link once available)*
+Live Demo Link : netflix-clone-21g.pages.dev 
 
 ---
 
