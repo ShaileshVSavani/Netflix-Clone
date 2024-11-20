@@ -114,7 +114,7 @@ Live Demo Link : netflix-clone-21g.pages.dev
 ---
 
 ## **Deployment**  
-- **Frontend:** Deployed using Netlify.  
+- **Frontend:** Deployed using Cloudflare Page.  
 - **Backend:** Deployed using platforms like Render.  
 - **Database:** MongoDB Atlas for a cloud-hosted database solution.  
 
